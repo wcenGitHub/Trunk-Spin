@@ -1,5 +1,5 @@
 package com.xiaomin.spin.phone.module.view.main;
-
+ 
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Context;

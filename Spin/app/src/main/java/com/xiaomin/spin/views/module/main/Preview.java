@@ -253,7 +253,7 @@ public class Preview extends ViewGroup implements SurfaceHolder.Callback
         }
         return optimalSize;
     }
-
+ 
     public void surfaceChanged(SurfaceHolder holder, int format, int w, int h)
     {
         Camera.Parameters parameters = mCamera.getParameters();
